@@ -10,7 +10,7 @@ Voici quelques informations utiles pour mieux me connaître :
 
 🗂️ J'ai développé tout un tas d'autres projets que j'ai pris le temps de présenter sur [mon portfolio](https://ndev.fr).
 
-⚙️ En termes de développement, je maîtrise le HTML5, Javascript et ses frameworks React et Vue, PHP et son framework Laravel, Mysql, Node.Js et Python. Aimant résoudre des problèmes, j'adore réflechir à la meilleure solution à envisager une nouvelle fonctionnalité ou corriger un bug.
+⚙️ En termes de développement, je maîtrise le HTML5, Javascript et ses frameworks React et Vue, PHP et son framework Laravel, Mysql, Node.Js et Python. Aimant résoudre des problèmes, j'adore réflechir à la meilleure solution à envisager pour créer une nouvelle fonctionnalité ou corriger un bug.
 
 🧑🏻‍💻 Développer uniquement pour des projets personnels ne me satisfait plus pleinement et je cherche donc à mettre mon expérience au service d'une entreprise pour faire partie intégrante d'une équipe et désormais vivre de ma passion.
 
